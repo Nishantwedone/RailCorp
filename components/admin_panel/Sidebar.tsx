@@ -21,22 +21,22 @@ const menus = [
   {
     title: "Accounts",
     icon: <MdManageAccounts />,
-    href: "#",
+    href: "/admin/accounts",
   },
   {
     title: "Transactions",
     icon: <GrTransaction />,
-    href: "#",
+    href: "/admin/transactions",
   },
   {
     title: "Analytics",
     icon: <IoAnalytics />,
-    href: "#",
+    href:"/admin/analytics",
   },
   {
     title: "Setting",
     icon: <IoSettings />,
-    href: "#",
+    href: "/admin/settings",
   },
 ];
 
